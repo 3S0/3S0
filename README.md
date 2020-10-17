@@ -1,5 +1,5 @@
 ## Welcome to my profile!
-##### Feel free to make pull requests on any of my repos - I am always open to improvements and feedback!
+<!--##### Feel free to make pull requests on any of my repos - I am always open to improvements and feedback!-->
 
 ## Projects
 
