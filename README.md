@@ -3,7 +3,7 @@
 "An idiot admires complexity, a genius admires simplicity" - Terry A Davis
 
 ## Projects
-* esoware - A 1.12.2 Anarchy/PvP-Based Utility Mod for Minecraft Forge
+* esohack - based pvp client i am making to learn java
 
 ## Languages
 I am currently learning Java and mainly use that. In the past I learnt a bit of C++.
