@@ -3,7 +3,6 @@
 "An idiot admires complexity, a genius admires simplicity" - Terry A Davis
 
 ## Projects
-* esohack - based pvp client i am making to learn java
 
 ## Languages
 I am currently learning Java and mainly use that. In the past I learnt a bit of C++.
