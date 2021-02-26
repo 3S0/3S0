@@ -5,4 +5,4 @@
 
 
 ## Projects I have contributed to
-- [AutoChrome](github.com/onion/AutoChrome) - A python script that trolls any unsuspecting user who runs it :^) (educational purposes only, no malicious intentions)
+- [AutoChrome](https://github.com/onion/AutoChrome) - A python script that trolls any unsuspecting user who runs it :^) (educational purposes only, no malicious intentions)
