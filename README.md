@@ -2,7 +2,7 @@
 
 
 ## My Projects
-PyPinger - a Python tool used for checking ping.
+esohack
 
 ## Projects I have contributed to
 - [AutoChrome](https://github.com/onion/AutoChrome) - A python script that trolls any unsuspecting user who runs it :^) (educational purposes only, no malicious intentions)
