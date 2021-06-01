@@ -5,7 +5,11 @@
 esohack
 
 ## Projects I have contributed to
-- [AutoChrome](https://github.com/onion/AutoChrome) - A python script that trolls any unsuspecting user who runs it :^) (educational purposes only, no malicious intentions)
+[AutoChrome](https://github.com/onion/AutoChrome) - A python script that trolls any unsuspecting user who runs it :^) (educational purposes only, no malicious intentions)
+
+## Languages I am currently learning / have learned
+Java
+C++
 
 ## Contact / Other platforms
 Discord: es0t#0001
