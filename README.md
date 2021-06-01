@@ -9,6 +9,7 @@ esohack
 
 ## Languages I am currently learning / have learned
 Java
+
 C++
 
 ## Contact / Other platforms
