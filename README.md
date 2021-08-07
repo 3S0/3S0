@@ -13,6 +13,6 @@ Java
 C++
 
 ## Contact / Other platforms
-Discord: es0t#0001
+Discord: es0t#0938
 
 YouTube: [es0t](https://www.youtube.com/channel/UCUieJFRJdAuTy5xRexh7M7g)
