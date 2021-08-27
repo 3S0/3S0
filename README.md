@@ -1,18 +1,10 @@
-[![3s0's github stats](https://github-readme-stats.vercel.app/api?username=3s0&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=3s0&color=7d69ff)
 
+## My Projects/Projects I have contributed to:
+ - esohack
+ - yoinkrat
 
-## My Projects
-esohack
+## Links
+https://youtube.com/es0terik
 
-## Projects I have contributed to
-[AutoChrome](https://github.com/onion/AutoChrome) - A python script that trolls any unsuspecting user who runs it :^) (educational purposes only, no malicious intentions)
-
-## Languages I am currently learning / have learned
-Java
-
-C++
-
-## Contact / Other platforms
-Discord: es0t#0938
-
-YouTube: [es0t](https://www.youtube.com/channel/UCUieJFRJdAuTy5xRexh7M7g)
+https://discord.gg/uB3amCbnX5
