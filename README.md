@@ -4,7 +4,8 @@ Profile view counter started on 28th August 2021
 
 ## My Projects/Projects I have contributed to:
  - esohack
- - yoinkrat
+ - yoinkrat v2
+ - catrat
 
 ## Links and contacts
 https://youtube.com/es0terik
