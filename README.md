@@ -1,3 +1,3 @@
-https://youtube.com/es0terik
+[eso](https://youtube.com/es0terik)
 
-es0t#0938
+eso#0938
